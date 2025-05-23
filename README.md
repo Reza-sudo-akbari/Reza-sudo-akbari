@@ -33,9 +33,9 @@ function learn() {
 🔄 Build a portfolio website that showcases all my work
 
 **📫 Let's Connect!**
-💼 LinkedIn (add your profile)
+💼 LinkedIn (www.linkedin.com/in/reza-akbari-06a37314b)
 
-📬 Email: your-email@example.com
+📬 Email: email@example.com
 
 🌍 Portfolio: Coming Soon...
 🌟 Thanks for visiting my profile. If you like what I do, feel free to follow and connect! 🌟

@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Reza Akbari
 
-<!--
-**Reza-sudo-akbari/Reza-sudo-akbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Full-Stack Developer** | 🌐 JavaScript & Python enthusiast | ☁️ Learning to build powerful web apps from front to back
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm on a journey to become a professional **Full-Stack Developer**, learning how to craft smooth, responsive frontends and robust, scalable backends. I love creating projects that solve real-world problems and exploring technologies like:
+
+- 🖥️ **Frontend**: HTML | CSS | JavaScript | React.js | Svelte | |Tailwind CSS | 
+- ⚙️ **Backend**: Node.js | Express | Python | Django | 
+- 💾 **Database**: MongoDB | PostgreSQL | Firebase
+- 🚀 **Tools & DevOps**: Git | GitHub | VS Code | Docker (learning) | CI/CD basics
+
+Currently diving deep into:
+```bash
+function learn() {
+  return ["React.js", "Node.js", "APIs", "Git Workflow", "RESTful Architecture"];
+}
+
+**📈 GitHub Stats**
+
+🧠 Learning Goals for 2025
+✅ Build a complete MERN stack app
+
+✅ Learn RESTful and GraphQL APIs
+
+🔄 Understand Docker & CI/CD pipelines
+
+🔄 Contribute to an open-source project
+
+🔄 Build a portfolio website that showcases all my work
+
+**📫 Let's Connect!**
+💼 LinkedIn (add your profile)
+
+📬 Email: your-email@example.com
+
+🌍 Portfolio: Coming Soon...
+🌟 Thanks for visiting my profile. If you like what I do, feel free to follow and connect! 🌟
